@@ -8,6 +8,9 @@ View all existing products and add a new product detail
 View the current stock
 View all customers, add a new customer and delete any customer details.
 View all past sales information and add new sale information
+
+
+
 Setup the development environment
 Open NetBeans IDE and create a new Java project with the name InventoryApp. Now create a new package with the name inventoryapp. Inside the inventoryapp package, we will create all the Java files. 
 Make sure you have MySQL server and Workbench installed on your system. If not then follow this.
